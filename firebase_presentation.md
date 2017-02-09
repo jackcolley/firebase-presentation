@@ -1,19 +1,34 @@
-# Did you know?
+# An Intro to Firebase
+- What is it?
+- How can we use it?
+- Live Demo
 
 ---
 
-## Background Images
+## A Quick Overview of Firebase
 
-### If you put text on top of an image, the image is _**filtered**_ so the text is always readable. 
+###"The tools and infrastructure you need to build better apps and grow successful businesses"
+
+- Product of Google.
+- Mobile Focused.
+- Multi Platform.
+- Scales as you grow.
+- Free to start with!
 
 ---
 
-# Isn’t that **great?**
-
-![](http://deckset-assets.s3-website-us-east-1.amazonaws.com/colnago2.jpg)
+![original](https://lh3.googleusercontent.com/you5Qm6B9GhkBvQ-A25p2p3iDsRCzwbqupJ-H4wJWAnkl2O0jOgar4zhY31e0RUAw40P47jkfDg24T3KHDRFSFFRGUXn6a8=s1600)
 
 ---
 
-# You can also turn the filter off.
+## Analytics
 
-![original](http://deckset-assets.s3-website-us-east-1.amazonaws.com/colnago2.jpg)
+- Easily integrated
+- Around 30 events as standard
+- Custom Events
+- Standard Metrics
+
+---
+
+## A quick look around the dashboard
+
